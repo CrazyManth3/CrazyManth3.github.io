@@ -8,6 +8,11 @@ html {
 }
 
 body {
+    background: linear-gradient(to bottom right, #00FFFF, #0095FF);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     padding-top: 150px;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
@@ -44,8 +49,11 @@ p {
 }
 
 img {
-    max-width: 75%;
-    height: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
+  max-width: 75%;
+  display: block;
+  height: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
