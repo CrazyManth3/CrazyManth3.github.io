@@ -1,4 +1,9 @@
 html {
+  box-sizing: border-box;
+  max-width: 70ch;
+  margin: auto;
+  color: #333;
+  line-height: 1.4;
   font-size: 75%; /* font-size 1em = 10px on default browser settings */
 }
 
