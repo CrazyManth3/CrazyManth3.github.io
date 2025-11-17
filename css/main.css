@@ -7,6 +7,14 @@ html {
   font-size: 75%; /* font-size 1em = 10px on default browser settings */
 }
 
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #15F4EE;
+  color: black;
+  font-size: 30px;
+}
+
 body {
     background: linear-gradient(to bottom right, #00FFFF, #0095FF);
     height: 100%;
