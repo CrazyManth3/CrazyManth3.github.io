@@ -7,10 +7,6 @@ html {
   font-size: 75%; /* font-size 1em = 10px on default browser settings */
 }
 
-#grad {
-  background-image: linear-gradient(to bottom right, #00FFFF, #0095FF);
-}
-
 body {
     padding-top: 150px;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
