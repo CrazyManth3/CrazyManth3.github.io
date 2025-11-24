@@ -1,7 +1,6 @@
 
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light nav-bg fixed-top justify-content-center" id="mainNav">
-    <a class="navbar-brand mx-auto" href="index.html">Welcome</a>
 
     <!-- To make our navbar mobile-friendly, we make it collapsable -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -10,7 +9,17 @@
     </button>
 
     <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-        <ul class="navbar-nav">
+
+        <!-- Left spacer (invisible, keeps brand centered) -->
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item invisible">
+                <a class="nav-link">Placeholder</a>
+            </li>
+        </ul>
+
+    <a class="navbar-brand mx-auto" href="index.html">Welcome</a>
+        
+        <ul class="navbar-nav mx-auto">
             <li class="nav-item">
             <a class="nav-link" href="projects.html">Projects</a>
           </li>
