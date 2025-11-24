@@ -8,7 +8,7 @@ html {
 }
 
 .nav-bg {
-  background-color: #15F4EE !important;
+  background-color: linear-gradient(to bottom right, #FF00FF, #15F4EE, #FFFF00) !important;
 }
 
 body {
