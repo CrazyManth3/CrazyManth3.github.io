@@ -7,8 +7,8 @@ html {
   font-size: 75%; /* font-size 1em = 10px on default browser settings */
 }
 
-.navbar {
-  background: #15F4EE;
+.nav-bg {
+  background-color: #15F4EE !important;
 }
 
 body {
