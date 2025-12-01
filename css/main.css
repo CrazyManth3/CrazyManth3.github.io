@@ -8,11 +8,11 @@ html {
 }
 
 .nav-bg {
-  background-color: #00cc66 !important;
+  background-color: #B7B0B7 !important;
 }
 
 body {
-    background: linear-gradient(to bottom right, #00FFFF, #0095FF);
+    background: linear-gradient(to bottom right, #B7B0B7, #B38D92);
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
